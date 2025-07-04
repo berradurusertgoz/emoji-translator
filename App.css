@@ -1,0 +1,30 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body {
+  background-color: #f9f9f9;
+}
+.App{
+  text-align: center;
+  margin-top: 50px;
+}
+.App p{
+  font-size: 30px;
+  letter-spacing: 1px;
+  margin-top: 15px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.App input{
+  margin-top: 20px;
+  padding: 10px;
+  width: 80%;
+  max-width: 300px;
+  font-size: 18px;
+  border-radius: 5px;
+  border: 1px solid gray;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
